@@ -1,0 +1,20 @@
+{
+  "name": "firstbackend",
+  "version": "1.0.0",
+  "description": "this is my first backend project\r <br>\r this is my second line \r <br>\r this is my third line\r <br>\r this is my fourth line",
+  "homepage": "https://github.com/yashsharma954/firstbackend#readme",
+  "bugs": {
+    "url": "https://github.com/yashsharma954/firstbackend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashsharma954/firstbackend.git"
+  },
+  "license": "ISC",
+  "author": "yash sharma",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
